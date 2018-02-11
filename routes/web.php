@@ -20,7 +20,8 @@ Route::get('/services', 'PagesController@services');
 Route::get('/callendar', 'PagesController@callendar');
 Route::get('/orders', 'PagesController@orders');
 Route::get('/contacts', 'PagesController@contacts');
-
+// Route for sending mails
+Route::post('contacts', 'PagesController@postContacts');
 Route::resource('products', 'ProductsController');
 
 Auth::routes();

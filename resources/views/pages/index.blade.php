@@ -17,8 +17,8 @@
                 </div>
                 <div class="container">
                     <p>
-                        Linen partner to some of the best-known hotels and hospitals in the country, we deliver over one million freshly laundered items weekly. From sourcing only premium quality linens to implementing the best in new technologies, we remain committed to innovation and customer service.
-                        For over ninety years, Celtic Linen has been the byword for fresh, quality linen. Now under new ownership by Causeway Capital, our commitment to innovation and service delivery and our fresh, personal approach take care of customers in every corner of Ireland. In both the Hospitality and Healthcare sectors, we put our customers ﬁrst.
+                        We are a small family business in Ballinasloe. Supply Linen to Hotels, Bed & Breakfast, Hostels and Nursing Homes in the West of Ireland and Midlands.
+                        We deliver clean linen and pick up used linen on a weekly basis.
                     </p>
                     <p>
                         <b>We're taking care of hospitality...</b>

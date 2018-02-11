@@ -23,7 +23,7 @@
                 <li><a href="/services">Services</a></li>
                 <li><a href="/products">Products</a></li>
                 <li><a href="/orders">Order</a></li>
-                <li><a href="/contacts">Contacts</a></li>
+                <li><a href="/contacts">Contact Us</a></li>
             </ul>
 
             <!-- Right Side Of Navbar -->

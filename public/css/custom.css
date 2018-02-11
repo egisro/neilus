@@ -25,6 +25,9 @@ a:hover {
     -ms-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out; }
+.getint {
+    padding-left: 10px;
+}
 
 /*.section.second {*/
     /*margin-bottom: 90px; }*/
@@ -56,6 +59,21 @@ a:hover {
     font-size: 47px; }
 .bgr {
     background-color: #e0e3e5;
+}
+.btn-custom {
+    background-color: #e0e3e5;
+}
+.btn.btn-default:hover,
+.btn.btn-default:focus,
+.btn.btn-default:active,
+.btn.btn-default.active {
+    color: #e0e3e5;
+    background-color: #222222;
+    border-color: #e0e3e5;
+}
+.reqfield {
+    color: #ff0000;
+    font-size: 18px;
 }
 .jumbobox h1 {
     font-size: 50px;
