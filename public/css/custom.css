@@ -63,6 +63,7 @@ a:hover {
 .btn-custom {
     background-color: #e0e3e5;
 }
+
 .btn.btn-default:hover,
 .btn.btn-default:focus,
 .btn.btn-default:active,
@@ -70,6 +71,19 @@ a:hover {
     color: #e0e3e5;
     background-color: #222222;
     border-color: #e0e3e5;
+}
+/*.thumbnail {*/
+    /*border: 0 none;*/
+    /*box-shadow: none;*/
+    /*background-color: #FFFFFF;*/
+/*}*/
+
+.row.display-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.thumbnail {
+    height: 100%;
 }
 .reqfield {
     color: #ff0000;
